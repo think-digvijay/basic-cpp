@@ -19,7 +19,7 @@ int main(){
     }
 
     return 0;
-}
+} 
 
 
 // // C++ program to check if given array
