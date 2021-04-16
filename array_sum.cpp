@@ -17,7 +17,9 @@ int main(){
             }
         }
     }
-
+    if(sum_num == 0){
+        cout<<"bakwass";
+    }
     return 0;
 } 
 
